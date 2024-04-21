@@ -1,0 +1,5 @@
+node_modules/
+.env
+backend/dalle_edit/*
+backend/dalle_images/*
+backend/dalle_variations/*
